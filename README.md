@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYxcDdkM3ZxdmZzZnhscHF6ZWU3cXhxYzNxbHFqcXNxYWV4ZHNidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/vNfC98H4CybVBDdJmY/giphy.gif" width="150" alt="Pixel Cat GIF" />
+  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="150" alt="Funny Cat" />
 </p>
 
 <h1 align="center">Hi there, I'm Addya Virna Amany 👋</h1>

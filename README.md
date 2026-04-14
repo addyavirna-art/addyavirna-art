@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Addya Virna Amany 👋</h1>
 
 <p align="center">
-  <strong>Industrial Engineering Student | Data Scientist Cohort DBS Foundation Coding Camp | Google Student Ambassador '25 | Published Author & HKI Certified</strong>
+  <strong>Industrial Engineering Student | Data Scientist Cohort DBS Foundation Coding Camp | Google Student Ambassador '25 | Published Author & Hak Kekayaan Intelektual Certified</strong>
 </p>
 
 ---

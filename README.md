@@ -6,6 +6,8 @@ Industrial Engineering Student | Data Scientist Cohort DBS Foundation Coding Cam
 - 💡 Google Student Ambassador (Rising Star Tier)
 - 📊 Data Science Enthusiast @ DBS Foundation Coding Camp
 - ✍️ Published Author of 10 Books
+HKI Certified: Proses Produksi Box Food Grade (No. 001066426)
+Direktorat Jenderal Kekayaan Intelektual (DJKI) - Kementerian Hukum RI
 
 ### 🛠 Languages and Tools:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
